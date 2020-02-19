@@ -1,4 +1,4 @@
 # hello-world
-testing out github</b>
-Hello, my name is Javier.</b>
+testing out github</br>
+Hello, my name is Javier.</br>
 
